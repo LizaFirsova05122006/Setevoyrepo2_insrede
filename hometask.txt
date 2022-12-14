@@ -1,0 +1,18 @@
+1.
+В ветках master  и demo сравнивался файл README.
+В ветке master  содержание файла было:
+Создать ветку выпуска с человеком (мастером) в ботинках (ветка boots) и шляпе (ветка hat) с красивыми пуговицами на куртке (ветка buttons)
+А в ветке demo:
+Создайте ветку выпуска с человеком (master) в boots (ветка boots) и hat (ветка hat).
+
+2.
+Всего 9 коммитов:
+1. init
+2. heat added
+3. boots
+4. README added
+5. dots
+6. fix readme
+7. Merge remote-tracking branch 'remotes/origin/boots' into boots_buttons
+8. Merge remote-tracking branch 'remotes/origin/buttons' into boots_buttons
+9. Merge remote-tracking branch 'remotes/origin/hat'
